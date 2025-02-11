@@ -96,6 +96,7 @@ a.secondary {
   grid-row-start: 3;
   display: flex;
   gap: 24px;
+  background-color: rgb(91, 210, 204);
 }
 
 .footer a {

@@ -1,4 +1,6 @@
-:root {
+@import "tailwindcss";
+
+/* :root {
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -24,6 +26,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.header{
+  background-color: #ffffff;
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -39,4 +45,4 @@ a {
   html {
     color-scheme: dark;
   }
-}
+} */
